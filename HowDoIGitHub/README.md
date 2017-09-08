@@ -76,7 +76,7 @@ Everytime you want to upload your work, follow the instructions below to upload 
 
 #### **Here's the show-me-don't-tell-me version!**
 
--	**(1)** Click on "Upload Files" and drag & drop your sketch folder
+-	**(1)** Click on "Upload Files" and drag & drop your sketch folder (with no spaces in the name!)
 
 ![Image](04_uploadingtoGit_part1.gif?raw=true)
 
