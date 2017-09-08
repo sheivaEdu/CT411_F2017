@@ -9,17 +9,17 @@ These instructions will review the basic steps of
 
 **NOTE: You only need to set up your class repository ONCE in the beginning of the semester. We followed these steps in class, so if you already have a class Repo, skip to Section 2. **
 
-- [ ] **(1)** login to your GitHub account and create a new Repository (or "Repo"), with a README page. 
+- **(1)** login to your GitHub account and create a new Repository (or "Repo"), with a README page. 
 
       *Remember, whatever you call this Repository will be part of your GitHub site link.*
       *There should be <u>NO SPACES</u> in the Repo name*
 
-- [ ] **(2)** go into the Settings tab for the Repo and activate GitHub Pages. 
+- **(2)** go into the Settings tab for the Repo and activate GitHub Pages. 
 
       *It will take a few minutes for the site link to become active, so we'll give it a moment to check that it worked in a browser.*
 
 
-- [ ] **(3)** now that it's been a few minutes, let's check on the main site link for the main class Repo you made.
+- **(3)** now that it's been a few minutes, let's check on the main site link for the main class Repo you made.
 
       Is it loading the README page? (*Or an index.html page you optionally uploaded?*) YAY!
 
