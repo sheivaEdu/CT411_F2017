@@ -11,17 +11,17 @@ These instructions will review the basic steps of
 
 - **(1)** login to your GitHub account and create a new Repository (or "Repo"), with a README page. 
 
-      _Remember, whatever you call this Repository will be part of your GitHub site link._
-      _There should be <u>NO SPACES</u> in the Repo name_
+   *Remember, whatever you call this Repository will be part of your GitHub site link.
+   There should be <u>NO SPACES</u> in the Repo name*
 
 - **(2)** go into the Settings tab for the Repo and activate GitHub Pages. 
 
-      _It will take a few minutes for the site link to become active, so we'll give it a moment to check that it worked in a browser._
+   *It will take a few minutes for the site link to become active, so we'll give it a moment to check that it worked in a browser.*
 
 
 - **(3)** now that it's been a few minutes, let's check on the main site link for the main class Repo you made.
 
-      _Is it loading the README page? (*Or an index.html page you optionally uploaded? YAY!_
+   *Is it loading the README page? (*Or an index.html page you optionally uploaded? YAY!*
 
 
 #### **Here's the show-me-don't-tell-me version!**
@@ -56,21 +56,21 @@ Everytime you want to upload your work, follow the instructions below to upload 
 
 - [ ] **(1)** back in the "Code" tab of your class Repo, click on the "Upload Files" button and grab your p5 sketch folder and drop it onto the browser. 
 
-      *Remember the folder will become part of the live link, so <u>NO SPACES</u> in the folder name.*  
+     *Remember the folder will become part of the live link, so <u>NO SPACES</u> in the folder name.*  
 
 - [ ] **(2)** add a "commit" message to indicate what is new about this upload 
 
-      *Are you updating something by re-uploading it? Are you uploading something for the first time? Make a note of what's happening in this commit/upload*
+     *Are you updating something by re-uploading it? Are you uploading something for the first time? Make a note of what's happening in this commit/upload*
 
-      -> then click "Commit Changes"
+     -> then click "Commit Changes"
 
 - [ ] **(3)** and now that we've waited a few minutes for the p5 sketch to upload, let's check the url within the Repo to see if it's online. 
 
-      *To get directly to the sketch you can add the folder name to the end of your main repo site link:* 
+     *To get directly to the sketch you can add the folder name to the end of your main repo site link:* 
 
-      *http://yourGithubUsername.github.io/yourRepoName/yourSketchFolderName*
+     *http://yourGithubUsername.github.io/yourRepoName/yourSketchFolderName*
 
-      Is it working? YAY!
+     Is it working? YAY!
 
       ​
 
