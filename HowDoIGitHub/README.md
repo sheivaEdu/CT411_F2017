@@ -6,9 +6,6 @@ These instructions will review the basic steps of
 
 
 
-[TOC]
-
-
 
 ## (1) Setting up your main class Repository in GitHub
 
