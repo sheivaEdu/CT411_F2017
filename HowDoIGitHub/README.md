@@ -97,13 +97,13 @@ Everytime you want to upload your work, follow the instructions below to upload 
 
 (i.e. https://yourusername.github.io/yourRepoName/yourSketchFolder)
 
-Here's my live sketch: https://sheivaedu.github.io/design-interaction/wk2_inclass01_builtinVariables/
+Here's a live sketch: https://sheivaedu.github.io/CT411_F2017/wk2_inclass01_builtinVariables/
 
 **(2)** your p5 sketch **code** (github.com/yourusername/….): 
 
 (i.e. https://github.com/yourGitHubUsername/yourRepoName/tree/master/yourSketchFolder/sketch.js)
 
-Here's my code: https://github.com/sheivaEdu/design-interaction/blob/master/wk2_inclass01_builtinVariables/sketch.js
+Here's the code for the above sketch: https://github.com/sheivaEdu/CT411_F2017/blob/master/wk2_inclass01_builtinVariables/sketch.js
 
 ![Image](07_twoLinks.gif?raw=true)
 
