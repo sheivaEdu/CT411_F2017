@@ -11,17 +11,17 @@ These instructions will review the basic steps of
 
 - **(1)** login to your GitHub account and create a new Repository (or "Repo"), with a README page. 
 
-      *Remember, whatever you call this Repository will be part of your GitHub site link.*
-      *There should be <u>NO SPACES</u> in the Repo name*
+      _Remember, whatever you call this Repository will be part of your GitHub site link._
+      _There should be <u>NO SPACES</u> in the Repo name_
 
 - **(2)** go into the Settings tab for the Repo and activate GitHub Pages. 
 
-      *It will take a few minutes for the site link to become active, so we'll give it a moment to check that it worked in a browser.*
+      _It will take a few minutes for the site link to become active, so we'll give it a moment to check that it worked in a browser._
 
 
 - **(3)** now that it's been a few minutes, let's check on the main site link for the main class Repo you made.
 
-      Is it loading the README page? (*Or an index.html page you optionally uploaded?*) YAY!
+      _Is it loading the README page? (*Or an index.html page you optionally uploaded? YAY!_
 
 
 #### **Here's the show-me-don't-tell-me version!**
