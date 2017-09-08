@@ -26,20 +26,20 @@ These instructions will review the basic steps of
 
 #### **Here's the show-me-don't-tell-me version!**
 
-​	**(1)** Create your Repo for all your classwork (no spaces in the name!):
+-	**(1)** Create your Repo for all your classwork (no spaces in the name!):
 
 ![Image](01createClassRepo02.gif?raw=true)
 
 
-​	**(2)** Activate GitHub Pages in the Settings
+-	**(2)** Activate GitHub Pages in the Settings
 
 ![Image](02activateGitHubPages.gif?raw=true)
 
 
 
-​	**(3)** Wait a few minutes, then check that your class Repo is loading in the browser:
+-	**(3)** Wait a few minutes, then check that your class Repo is loading in the browser:
 
-​	![Image](03GitHubRepoIsOnline.gif?raw=true) 
+![Image](03GitHubRepoIsOnline.gif?raw=true) 
 
 
 
@@ -76,15 +76,15 @@ Everytime you want to upload your work, follow the instructions below to upload 
 
 #### **Here's the show-me-don't-tell-me version!**
 
-​	**(1)** Click on "Upload Files" and drag & drop your sketch folder
+-	**(1)** Click on "Upload Files" and drag & drop your sketch folder
 
 ![Image](04_uploadingtoGit_part1.gif?raw=true)
 
-​	**(2)** Add a "commit" message (add a note about what your uploading)
+-	**(2)** Add a "commit" message (add a note about what your uploading)
 
 ![Image](05_uploadingWorktoGithub_part2.gif?=raw=true)
 
-​	**(3)** Load your code in the browser to see your p5 sketch on your GitHub Pages site:
+-	**(3)** Load your code in the browser to see your p5 sketch on your GitHub Pages site:
 
 ![Image](06_loadCodeInBrowser.gif?raw=true)
 
