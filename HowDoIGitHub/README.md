@@ -7,7 +7,7 @@ These instructions will review the basic steps of
 
 ## (1) Setting up your main class Repository in GitHub
 
-**NOTE: You only need to set up your class repository ONCE in the beginning of the semester. We followed these steps in class, so if you already have a class Repo, skip to Section 2. **
+**NOTE: You only need to set up your class repository ONCE in the beginning of the semester. We followed these steps in class, so if you already have a class Repo, skip to Section 2.**
 
 - **(1)** login to your GitHub account and create a new Repository (or "Repo"), with a README page. 
 
