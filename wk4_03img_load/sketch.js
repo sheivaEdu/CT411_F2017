@@ -1,6 +1,5 @@
 var img;
-//var imageSize;
-//var imageRadius;
+
 
 function preload(){
     img = loadImage("monkey_selfie.png");
@@ -18,8 +17,4 @@ function draw(){
     imageMode(CENTER);
     image(img, width/2, height/2, imageSize, imageSize); 
     
-}
-
-function mousePressed(){
-
 }
