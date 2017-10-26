@@ -49,7 +49,8 @@ function draw(){
    for(var font1x = 50; font1x <= width - 50; font1x = font1x + 100){
     
       for(var font1y = 50; font1y <= width - 50; font1y = font1y + 100)
-       text("a",font1x,font1y);
+          textFont(font1);
+          text("a",font1x,font1y);
    
        
        }//END FOR LOOP
@@ -73,14 +74,16 @@ function draw(){
    for(var font1x = -50; font1x <= width; font1x = font1x + 100){
     
       for(var font1y = 50; font1y <= height+150; font1y = font1y + 200)
-       text("a",font1x,font1y);
+        textFont(font1);
+          text("a",font1x,font1y);
       
     }//END FOR LOOP
         
    for(var font2x = 0; font2x <= width; font2x = font2x + 100){
     
       for(var font2y = 150; font2y <= height+150; font2y = font2y + 200)
-       text("a",font2x,font2y);
+       textFont(font2);
+          text("a",font2x,font2y);
       
     }//END FOR LOOP
                 
