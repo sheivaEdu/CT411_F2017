@@ -10,10 +10,10 @@ function setup(){
 }
 
 function draw(){
-    background(255, 10, 80);
+    background(100);
     
     
-    fill(0, 40);
+    fill(0);
     push();
         translate(400, 400);
         rotate(radians(counter));
