@@ -1,4 +1,4 @@
-var pups = ["Rex", "Dexter", "Patches", "Scruffy", "Scraggle", "Matcha", "Mr. McGoo", "taco", "Schnuggs", "Droopy", "Tinks", "Pamplimouse", "Dandy"];
+var pups = ["Rex", "Dexter", "Patches", "Scruffy", "Scraggle", "Matcha", "Mr. McGoo", "taco", "Schnuggs", "Droopy", "Tinks", "Pamplimouse", "Dandy", "Fancypants", "Missy", "Popeye"];
 var index = 0;
 
 function setup() {
